@@ -103,4 +103,3 @@ let iniciarJogo = () =>{
  snake.unshift(newHead);
 }
 let jogo = setInterval(iniciarJogo,100);
-
